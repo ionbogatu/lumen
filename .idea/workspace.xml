@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ac84334-3658-4ba4-9432-2a89e2fcc63b" name="Default" comment="" />
+    <ignored path="lumen.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="lumen" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.612904" vertical-offset="212" max-vertical-offset="2706">
+              <caret line="26" column="28" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TeacherController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/TeacherController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="7.548387" vertical-offset="1774" max-vertical-offset="2640">
+              <caret line="677" column="33" selection-start-line="677" selection-start-column="33" selection-end-line="677" selection-end-column="33" />
+              <folding>
+                <element signature="e#6#90#0#PHP" expanded="true" />
+                <element signature="e#210#505#0#PHP" expanded="false" />
+                <element signature="e#511#673#0#PHP" expanded="false" />
+                <element signature="e#679#1136#0#PHP" expanded="false" />
+                <element signature="e#1142#1838#0#PHP" expanded="false" />
+                <element signature="e#1844#2036#0#PHP" expanded="false" />
+                <element signature="e#2042#2223#0#PHP" expanded="false" />
+                <element signature="e#2261#3362#0#PHP" expanded="false" />
+                <element signature="e#3368#4321#0#PHP" expanded="false" />
+                <element signature="e#4327#5462#0#PHP" expanded="false" />
+                <element signature="e#5468#6615#0#PHP" expanded="false" />
+                <element signature="e#6621#8387#0#PHP" expanded="false" />
+                <element signature="e#8393#9891#0#PHP" expanded="false" />
+                <element signature="e#9897#10953#0#PHP" expanded="false" />
+                <element signature="e#10959#12309#0#PHP" expanded="false" />
+                <element signature="e#12315#14090#0#PHP" expanded="false" />
+                <element signature="e#14096#15587#0#PHP" expanded="false" />
+                <element signature="e#15593#16777#0#PHP" expanded="false" />
+                <element signature="e#16783#17958#0#PHP" expanded="false" />
+                <element signature="e#17964#20078#0#PHP" expanded="false" />
+                <element signature="e#20084#21264#0#PHP" expanded="false" />
+                <element signature="e#21270#23284#0#PHP" expanded="false" />
+                <element signature="e#23290#23568#0#PHP" expanded="false" />
+                <element signature="e#23574#25369#0#PHP" expanded="false" />
+                <element signature="e#25375#27362#0#PHP" expanded="false" />
+                <element signature="e#27400#28891#0#PHP" expanded="false" />
+                <element signature="e#28897#30715#0#PHP" expanded="false" />
+                <element signature="e#30721#32602#0#PHP" expanded="false" />
+                <element signature="e#32608#34385#0#PHP" expanded="false" />
+                <element signature="e#34391#36184#0#PHP" expanded="false" />
+                <element signature="e#36190#37460#0#PHP" expanded="false" />
+                <element signature="e#37466#39415#0#PHP" expanded="false" />
+                <element signature="e#39421#40759#0#PHP" expanded="false" />
+                <element signature="e#40765#42754#0#PHP" expanded="false" />
+                <element signature="e#42760#44057#0#PHP" expanded="false" />
+                <element signature="e#44063#45946#0#PHP" expanded="false" />
+                <element signature="e#45952#47313#0#PHP" expanded="false" />
+                <element signature="e#47319#50029#0#PHP" expanded="false" />
+                <element signature="e#50035#51364#0#PHP" expanded="false" />
+                <element signature="e#51370#52711#0#PHP" expanded="false" />
+                <element signature="e#52717#57251#0#PHP" expanded="false" />
+                <element signature="e#57257#58636#0#PHP" expanded="false" />
+                <element signature="e#58642#62274#0#PHP" expanded="false" />
+                <element signature="e#62280#63224#0#PHP" expanded="false" />
+                <element signature="e#63230#65449#0#PHP" expanded="false" />
+                <element signature="e#65455#66582#0#PHP" expanded="false" />
+                <marker date="1461046889071" expanded="true" signature="7127:7202" placeholder="select game_..." />
+                <marker date="1461046889071" expanded="true" signature="10346:10499" placeholder="select name,..users..." />
+                <marker date="1461046889071" expanded="true" signature="16043:16170" placeholder="select * fro..class_games_access..." />
+                <marker date="1461046889071" expanded="true" signature="24304:24436" placeholder="select * fro..museum_notes..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParseController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ParseController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.741936" vertical-offset="4780" max-vertical-offset="5698">
+              <caret line="1589" column="20" selection-start-line="1589" selection-start-column="20" selection-end-line="1589" selection-end-column="20" />
+              <folding>
+                <element signature="e#233#929#0#PHP" expanded="false" />
+                <element signature="e#935#1470#0#PHP" expanded="false" />
+                <element signature="e#1476#2556#0#PHP" expanded="false" />
+                <element signature="e#2562#4244#0#PHP" expanded="false" />
+                <element signature="e#4250#4715#0#PHP" expanded="false" />
+                <element signature="e#4721#6192#0#PHP" expanded="false" />
+                <element signature="e#6198#7237#0#PHP" expanded="false" />
+                <element signature="e#7243#7923#0#PHP" expanded="false" />
+                <element signature="e#7929#9231#0#PHP" expanded="false" />
+                <element signature="e#9237#11037#0#PHP" expanded="false" />
+                <element signature="e#11043#11480#0#PHP" expanded="false" />
+                <element signature="e#11486#12152#0#PHP" expanded="false" />
+                <element signature="e#12158#17816#0#PHP" expanded="false" />
+                <element signature="e#17822#18845#0#PHP" expanded="false" />
+                <element signature="e#18851#19009#0#PHP" expanded="false" />
+                <element signature="e#19015#21926#0#PHP" expanded="false" />
+                <element signature="e#21932#25805#0#PHP" expanded="false" />
+                <element signature="e#25811#26252#0#PHP" expanded="false" />
+                <element signature="e#26258#27393#0#PHP" expanded="false" />
+                <element signature="e#27399#28508#0#PHP" expanded="false" />
+                <element signature="e#28559#29478#0#PHP" expanded="false" />
+                <element signature="e#29484#30341#0#PHP" expanded="false" />
+                <element signature="e#30347#31990#0#PHP" expanded="false" />
+                <element signature="e#31996#32544#0#PHP" expanded="false" />
+                <element signature="e#32550#33639#0#PHP" expanded="false" />
+                <element signature="e#33645#34767#0#PHP" expanded="false" />
+                <element signature="e#34773#35936#0#PHP" expanded="false" />
+                <element signature="e#35942#37506#0#PHP" expanded="false" />
+                <element signature="e#37512#37881#0#PHP" expanded="false" />
+                <element signature="e#37932#40441#0#PHP" expanded="false" />
+                <element signature="e#40447#41121#0#PHP" expanded="false" />
+                <element signature="e#41127#43229#0#PHP" expanded="false" />
+                <element signature="e#43235#44886#0#PHP" expanded="false" />
+                <element signature="e#44892#45373#0#PHP" expanded="false" />
+                <element signature="e#45379#45919#0#PHP" expanded="false" />
+                <element signature="e#49102#50279#0#PHP" expanded="false" />
+                <element signature="e#50285#50526#0#PHP" expanded="false" />
+                <element signature="e#50577#50923#0#PHP" expanded="false" />
+                <marker date="1461049752422" expanded="true" signature="32056:32095" placeholder="drop table i..." />
+                <marker date="1461049752422" expanded="true" signature="32122:32408" placeholder="create table..class_games_access..." />
+                <marker date="1461049752422" expanded="true" signature="32435:32535" placeholder="ALTER TABLE ..." />
+                <marker date="1461049752422" expanded="true" signature="40524:40560" placeholder="drop table i..." />
+                <marker date="1461049752422" expanded="true" signature="40587:40852" placeholder="create table..teacher_classes..." />
+                <marker date="1461049752422" expanded="true" signature="40879:40976" placeholder="ALTER TABLE ..." />
+                <marker date="1461049752422" expanded="true" signature="44951:44982" placeholder="drop table i..." />
+                <marker date="1461049752422" expanded="true" signature="45009:45247" placeholder="select users..users..." />
+                <marker date="1461049752422" expanded="true" signature="45274:45364" placeholder="alter table user_books..." />
+                <marker date="1461049752422" expanded="true" signature="45438:45469" placeholder="drop table i..." />
+                <marker date="1461049752422" expanded="true" signature="45496:45793" placeholder="select users..users..." />
+                <marker date="1461049752422" expanded="true" signature="45820:45910" placeholder="alter table user_games..." />
+                <marker date="1461049752422" expanded="true" signature="51556:51893" placeholder="insert into ..." />
+                <marker date="1461049752422" expanded="true" signature="51979:52323" placeholder="insert into ..." />
+                <marker date="1461049752422" expanded="true" signature="52747:53072" placeholder="insert into ..." />
+                <marker date="1461049752422" expanded="true" signature="53158:53462" placeholder="insert into ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LastUserInstruments.json" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/LastUserInstruments.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.967742" vertical-offset="116366" max-vertical-offset="719774">
+              <caret line="5302" column="28" selection-start-line="5302" selection-start-column="22" selection-end-line="5302" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".env" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.31919643" vertical-offset="0" max-vertical-offset="896">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/laravel/lumen-framework/config/database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="3102">
+              <caret line="63" column="64" selection-start-line="63" selection-start-column="64" selection-end-line="63" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="638" max-vertical-offset="1804">
+              <caret line="318" column="5" selection-start-line="318" selection-start-column="5" selection-end-line="318" selection-end-column="5" />
+              <folding>
+                <element signature="e#269#564#0#PHP" expanded="false" />
+                <element signature="e#570#732#0#PHP" expanded="false" />
+                <element signature="e#738#1431#0#PHP" expanded="false" />
+                <element signature="e#1469#1673#0#PHP" expanded="false" />
+                <element signature="e#1679#4223#0#PHP" expanded="false" />
+                <element signature="e#1834#2537#0#PHP" expanded="false" />
+                <element signature="e#2662#3401#0#PHP" expanded="false" />
+                <element signature="e#3514#4217#0#PHP" expanded="false" />
+                <element signature="e#4229#6772#0#PHP" expanded="false" />
+                <element signature="e#5203#5913#0#PHP" expanded="false" />
+                <element signature="e#6048#6766#0#PHP" expanded="false" />
+                <element signature="e#6778#8927#0#PHP" expanded="false" />
+                <element signature="e#8933#9285#0#PHP" expanded="false" />
+                <element signature="e#9291#9854#0#PHP" expanded="false" />
+                <element signature="e#9860#10993#0#PHP" expanded="false" />
+                <element signature="e#10999#11191#0#PHP" expanded="false" />
+                <element signature="e#11197#12018#0#PHP" expanded="false" />
+                <element signature="e#12024#13433#0#PHP" expanded="false" />
+                <element signature="e#13439#13599#0#PHP" expanded="false" />
+                <element signature="e#13605#14609#0#PHP" expanded="false" />
+                <element signature="e#14615#15648#0#PHP" expanded="false" />
+                <element signature="e#15654#15958#0#PHP" expanded="false" />
+                <element signature="e#15964#17189#0#PHP" expanded="false" />
+                <element signature="e#17195#18026#0#PHP" expanded="false" />
+                <element signature="e#18032#19144#0#PHP" expanded="false" />
+                <element signature="e#19150#20077#0#PHP" expanded="false" />
+                <element signature="e#20083#20895#0#PHP" expanded="false" />
+                <element signature="e#20901#23085#0#PHP" expanded="false" />
+                <element signature="e#23123#23828#0#PHP" expanded="false" />
+                <element signature="e#23834#27255#0#PHP" expanded="false" />
+                <element signature="e#27261#27990#0#PHP" expanded="false" />
+                <element signature="e#27996#28850#0#PHP" expanded="false" />
+                <element signature="e#28856#31050#0#PHP" expanded="false" />
+                <element signature="e#31056#32498#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.env.example" />
+        <option value="$PROJECT_DIR$/bootstrap/app.php" />
+        <option value="$USER_HOME$/Downloads/routes.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/TestController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/UpdateController.php" />
+        <option value="$USER_HOME$/Desktop/WebGame DB/ParseData/BookRestriction.json" />
+        <option value="$USER_HOME$/Desktop/WebGame DB/ParseData/Book.json" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ParseController_old.php" />
+        <option value="$USER_HOME$/Desktop/WebGame DB/ParseData/Log.json" />
+        <option value="$USER_HOME$/Desktop/WebGame DB/ParseData/Statistics.json" />
+        <option value="$USER_HOME$/Desktop/WebGame DB/ParseData/MSUser.json" />
+        <option value="$USER_HOME$/Desktop/WebGame DB/ParseData/MSUserExceptions.json" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/vendor/laravel/lumen-framework/config/database.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/TeacherController.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$USER_HOME$/Desktop/routes.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ParseController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1935" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumen-framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumen-framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="en" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumen-framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lumen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/wamp/www/lumen/app/Http/routes.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\lumen" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ac84334-3658-4ba4-9432-2a89e2fcc63b" name="Default" comment="" />
+      <created>1459516708019</created>
+      <option name="number" value="Default" />
+      <updated>1459516708019</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1935" height="1056" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2768" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864866" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2496" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="121" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ParseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4026">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#233#929#0#PHP" expanded="false" />
+            <element signature="e#935#1470#0#PHP" expanded="false" />
+            <element signature="e#1476#2556#0#PHP" expanded="false" />
+            <element signature="e#2562#4244#0#PHP" expanded="false" />
+            <element signature="e#4250#4715#0#PHP" expanded="false" />
+            <element signature="e#4721#6192#0#PHP" expanded="false" />
+            <element signature="e#6198#7237#0#PHP" expanded="false" />
+            <element signature="e#7243#7923#0#PHP" expanded="false" />
+            <element signature="e#7929#9231#0#PHP" expanded="false" />
+            <element signature="e#9237#11037#0#PHP" expanded="false" />
+            <element signature="e#11043#11480#0#PHP" expanded="false" />
+            <element signature="e#11486#12152#0#PHP" expanded="false" />
+            <element signature="e#12158#17816#0#PHP" expanded="false" />
+            <element signature="e#17822#18845#0#PHP" expanded="false" />
+            <element signature="e#18851#19009#0#PHP" expanded="false" />
+            <element signature="e#19015#21926#0#PHP" expanded="false" />
+            <element signature="e#21932#25805#0#PHP" expanded="false" />
+            <element signature="e#25811#26252#0#PHP" expanded="false" />
+            <element signature="e#26258#27393#0#PHP" expanded="false" />
+            <element signature="e#27399#28508#0#PHP" expanded="false" />
+            <element signature="e#28559#29478#0#PHP" expanded="false" />
+            <element signature="e#29484#30341#0#PHP" expanded="false" />
+            <element signature="e#30347#31990#0#PHP" expanded="false" />
+            <element signature="e#31996#32544#0#PHP" expanded="false" />
+            <element signature="e#32550#33639#0#PHP" expanded="false" />
+            <element signature="e#33645#34767#0#PHP" expanded="false" />
+            <element signature="e#34773#35936#0#PHP" expanded="false" />
+            <element signature="e#35942#37506#0#PHP" expanded="false" />
+            <element signature="e#37512#37881#0#PHP" expanded="false" />
+            <element signature="e#37932#40441#0#PHP" expanded="false" />
+            <element signature="e#40447#41121#0#PHP" expanded="false" />
+            <element signature="e#41127#43229#0#PHP" expanded="false" />
+            <element signature="e#43235#44886#0#PHP" expanded="false" />
+            <element signature="e#44892#45373#0#PHP" expanded="false" />
+            <element signature="e#45379#45919#0#PHP" expanded="false" />
+            <element signature="e#49102#50279#0#PHP" expanded="false" />
+            <element signature="e#50285#50526#0#PHP" expanded="false" />
+            <element signature="e#50577#50923#0#PHP" expanded="false" />
+            <marker date="1461049752422" expanded="true" signature="32056:32095" placeholder="drop table i..." />
+            <marker date="1461049752422" expanded="true" signature="32122:32408" placeholder="create table..class_games_access..." />
+            <marker date="1461049752422" expanded="true" signature="32435:32535" placeholder="ALTER TABLE ..." />
+            <marker date="1461049752422" expanded="true" signature="40524:40560" placeholder="drop table i..." />
+            <marker date="1461049752422" expanded="true" signature="40587:40852" placeholder="create table..teacher_classes..." />
+            <marker date="1461049752422" expanded="true" signature="40879:40976" placeholder="ALTER TABLE ..." />
+            <marker date="1461049752422" expanded="true" signature="44951:44982" placeholder="drop table i..." />
+            <marker date="1461049752422" expanded="true" signature="45009:45247" placeholder="select users..users..." />
+            <marker date="1461049752422" expanded="true" signature="45274:45364" placeholder="alter table user_books..." />
+            <marker date="1461049752422" expanded="true" signature="45438:45469" placeholder="drop table i..." />
+            <marker date="1461049752422" expanded="true" signature="45496:45793" placeholder="select users..users..." />
+            <marker date="1461049752422" expanded="true" signature="45820:45910" placeholder="alter table user_games..." />
+            <marker date="1461049752422" expanded="true" signature="51556:51893" placeholder="insert into ..." />
+            <marker date="1461049752422" expanded="true" signature="51979:52323" placeholder="insert into ..." />
+            <marker date="1461049752422" expanded="true" signature="52747:53072" placeholder="insert into ..." />
+            <marker date="1461049752422" expanded="true" signature="53158:53462" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/LastUserInstruments.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="116366" max-vertical-offset="719774">
+          <caret line="5302" column="28" selection-start-line="5302" selection-start-column="22" selection-end-line="5302" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="440">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/lumen-framework/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="3102">
+          <caret line="63" column="64" selection-start-line="63" selection-start-column="64" selection-end-line="63" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="638" max-vertical-offset="1804">
+          <caret line="318" column="5" selection-start-line="318" selection-start-column="5" selection-end-line="318" selection-end-column="5" />
+          <folding>
+            <element signature="e#269#564#0#PHP" expanded="false" />
+            <element signature="e#570#732#0#PHP" expanded="false" />
+            <element signature="e#738#1431#0#PHP" expanded="false" />
+            <element signature="e#1469#1673#0#PHP" expanded="false" />
+            <element signature="e#1679#4223#0#PHP" expanded="false" />
+            <element signature="e#1834#2537#0#PHP" expanded="false" />
+            <element signature="e#2662#3401#0#PHP" expanded="false" />
+            <element signature="e#3514#4217#0#PHP" expanded="false" />
+            <element signature="e#4229#6772#0#PHP" expanded="false" />
+            <element signature="e#5203#5913#0#PHP" expanded="false" />
+            <element signature="e#6048#6766#0#PHP" expanded="false" />
+            <element signature="e#6778#8927#0#PHP" expanded="false" />
+            <element signature="e#8933#9285#0#PHP" expanded="false" />
+            <element signature="e#9291#9854#0#PHP" expanded="false" />
+            <element signature="e#9860#10993#0#PHP" expanded="false" />
+            <element signature="e#10999#11191#0#PHP" expanded="false" />
+            <element signature="e#11197#12018#0#PHP" expanded="false" />
+            <element signature="e#12024#13433#0#PHP" expanded="false" />
+            <element signature="e#13439#13599#0#PHP" expanded="false" />
+            <element signature="e#13605#14609#0#PHP" expanded="false" />
+            <element signature="e#14615#15648#0#PHP" expanded="false" />
+            <element signature="e#15654#15958#0#PHP" expanded="false" />
+            <element signature="e#15964#17189#0#PHP" expanded="false" />
+            <element signature="e#17195#18026#0#PHP" expanded="false" />
+            <element signature="e#18032#19144#0#PHP" expanded="false" />
+            <element signature="e#19150#20077#0#PHP" expanded="false" />
+            <element signature="e#20083#20895#0#PHP" expanded="false" />
+            <element signature="e#20901#23085#0#PHP" expanded="false" />
+            <element signature="e#23123#23828#0#PHP" expanded="false" />
+            <element signature="e#23834#27255#0#PHP" expanded="false" />
+            <element signature="e#27261#27990#0#PHP" expanded="false" />
+            <element signature="e#27996#28850#0#PHP" expanded="false" />
+            <element signature="e#28856#31050#0#PHP" expanded="false" />
+            <element signature="e#31056#32498#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/TeacherController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="65" max-vertical-offset="3652">
+          <caret line="998" column="49" selection-start-line="998" selection-start-column="20" selection-end-line="998" selection-end-column="49" />
+          <folding>
+            <element signature="e#6#90#0#PHP" expanded="true" />
+            <element signature="e#210#505#0#PHP" expanded="false" />
+            <element signature="e#511#673#0#PHP" expanded="false" />
+            <element signature="e#679#1136#0#PHP" expanded="false" />
+            <element signature="e#1142#1838#0#PHP" expanded="false" />
+            <element signature="e#1844#2036#0#PHP" expanded="false" />
+            <element signature="e#2042#2223#0#PHP" expanded="false" />
+            <element signature="e#2261#3362#0#PHP" expanded="false" />
+            <element signature="e#3368#4321#0#PHP" expanded="false" />
+            <element signature="e#4327#5462#0#PHP" expanded="false" />
+            <element signature="e#5468#6615#0#PHP" expanded="false" />
+            <element signature="e#6621#8387#0#PHP" expanded="false" />
+            <element signature="e#8393#9891#0#PHP" expanded="false" />
+            <element signature="e#9897#10953#0#PHP" expanded="false" />
+            <element signature="e#10959#12309#0#PHP" expanded="false" />
+            <element signature="e#12315#14090#0#PHP" expanded="false" />
+            <element signature="e#14096#15587#0#PHP" expanded="false" />
+            <element signature="e#15593#16777#0#PHP" expanded="false" />
+            <element signature="e#16783#17958#0#PHP" expanded="false" />
+            <element signature="e#17964#20078#0#PHP" expanded="false" />
+            <element signature="e#20084#21264#0#PHP" expanded="false" />
+            <element signature="e#21270#23284#0#PHP" expanded="false" />
+            <element signature="e#23290#23568#0#PHP" expanded="false" />
+            <element signature="e#23574#25369#0#PHP" expanded="false" />
+            <element signature="e#25375#27362#0#PHP" expanded="false" />
+            <element signature="e#27400#28891#0#PHP" expanded="false" />
+            <element signature="e#28897#30715#0#PHP" expanded="false" />
+            <element signature="e#30721#32602#0#PHP" expanded="false" />
+            <element signature="e#32608#34385#0#PHP" expanded="false" />
+            <element signature="e#34391#36184#0#PHP" expanded="false" />
+            <element signature="e#36190#37460#0#PHP" expanded="false" />
+            <element signature="e#37466#39415#0#PHP" expanded="false" />
+            <element signature="e#39421#40759#0#PHP" expanded="false" />
+            <element signature="e#40765#42754#0#PHP" expanded="false" />
+            <element signature="e#42760#44057#0#PHP" expanded="false" />
+            <element signature="e#44063#45946#0#PHP" expanded="false" />
+            <element signature="e#45952#47313#0#PHP" expanded="false" />
+            <element signature="e#47319#50029#0#PHP" expanded="false" />
+            <element signature="e#50035#51364#0#PHP" expanded="false" />
+            <element signature="e#51370#52711#0#PHP" expanded="false" />
+            <element signature="e#52717#57251#0#PHP" expanded="false" />
+            <element signature="e#57257#58636#0#PHP" expanded="false" />
+            <element signature="e#58642#62274#0#PHP" expanded="false" />
+            <element signature="e#62280#63224#0#PHP" expanded="false" />
+            <element signature="e#63230#65449#0#PHP" expanded="false" />
+            <element signature="e#65455#66582#0#PHP" expanded="false" />
+            <marker date="1461046889071" expanded="true" signature="7127:7202" placeholder="select game_..." />
+            <marker date="1461046889071" expanded="true" signature="10346:10499" placeholder="select name,..users..." />
+            <marker date="1461046889071" expanded="true" signature="16043:16170" placeholder="select * fro..class_games_access..." />
+            <marker date="1461046889071" expanded="true" signature="24304:24436" placeholder="select * fro..museum_notes..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="916" max-vertical-offset="1804">
+          <caret line="691" column="5" selection-start-line="691" selection-start-column="5" selection-end-line="691" selection-end-column="5" />
+          <folding>
+            <element signature="e#269#564#0#PHP" expanded="false" />
+            <element signature="e#570#732#0#PHP" expanded="false" />
+            <element signature="e#738#1431#0#PHP" expanded="false" />
+            <element signature="e#1469#1673#0#PHP" expanded="false" />
+            <element signature="e#1679#4223#0#PHP" expanded="false" />
+            <element signature="e#1834#2537#0#PHP" expanded="false" />
+            <element signature="e#2662#3401#0#PHP" expanded="false" />
+            <element signature="e#3514#4217#0#PHP" expanded="false" />
+            <element signature="e#4229#6772#0#PHP" expanded="false" />
+            <element signature="e#5203#5913#0#PHP" expanded="false" />
+            <element signature="e#6048#6766#0#PHP" expanded="false" />
+            <element signature="e#6778#8927#0#PHP" expanded="false" />
+            <element signature="e#8933#9285#0#PHP" expanded="false" />
+            <element signature="e#9291#9854#0#PHP" expanded="false" />
+            <element signature="e#9860#10993#0#PHP" expanded="false" />
+            <element signature="e#10999#11191#0#PHP" expanded="false" />
+            <element signature="e#11197#12018#0#PHP" expanded="false" />
+            <element signature="e#12024#13433#0#PHP" expanded="false" />
+            <element signature="e#13439#13599#0#PHP" expanded="false" />
+            <element signature="e#13605#14609#0#PHP" expanded="false" />
+            <element signature="e#14615#15648#0#PHP" expanded="false" />
+            <element signature="e#15654#15958#0#PHP" expanded="false" />
+            <element signature="e#15964#17189#0#PHP" expanded="false" />
+            <element signature="e#17195#18026#0#PHP" expanded="false" />
+            <element signature="e#18032#19144#0#PHP" expanded="false" />
+            <element signature="e#19150#20077#0#PHP" expanded="false" />
+            <element signature="e#20083#20895#0#PHP" expanded="false" />
+            <element signature="e#20901#23085#0#PHP" expanded="false" />
+            <element signature="e#23123#23828#0#PHP" expanded="false" />
+            <element signature="e#23834#27255#0#PHP" expanded="false" />
+            <element signature="e#27261#27990#0#PHP" expanded="false" />
+            <element signature="e#27996#28850#0#PHP" expanded="false" />
+            <element signature="e#28856#31050#0#PHP" expanded="false" />
+            <element signature="e#31056#32498#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="440">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.6531792" vertical-offset="301" max-vertical-offset="2750">
+          <caret line="118" column="6" selection-start-line="118" selection-start-column="6" selection-end-line="118" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/MuseumAsset.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="184" max-vertical-offset="8778">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/MuseumSubAsset.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24413146" vertical-offset="98726" max-vertical-offset="121022">
+          <caret line="4497" column="8" selection-start-line="4500" selection-start-column="25" selection-end-line="4500" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData_14.02.2016/MuseumSubAsset.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="352" max-vertical-offset="121022">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/unilogin/getInstitutionFromUnilogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25821596" vertical-offset="924" max-vertical-offset="2552">
+          <caret line="64" column="134" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/MSUser.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2069" max-vertical-offset="10032">
+          <caret line="123" column="48" selection-start-line="123" selection-start-column="48" selection-end-line="123" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/MSUser-1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29227054" vertical-offset="0" max-vertical-offset="242352">
+          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/MSGame.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1210">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/QuestionRestriction.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6754">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="418">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ParseController_old.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.064516" vertical-offset="1677" max-vertical-offset="11616">
+          <caret line="542" column="12" selection-start-line="542" selection-start-column="12" selection-end-line="542" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UpdateController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63583815" vertical-offset="0" max-vertical-offset="880">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/TestController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3052023" vertical-offset="0" max-vertical-offset="865">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/deprecated data/Log.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6531792" vertical-offset="2772" max-vertical-offset="1562154">
+          <caret line="61" column="36" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/Question.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2799043" vertical-offset="472128" max-vertical-offset="904530">
+          <caret line="21471" column="28" selection-start-line="21471" selection-start-column="9" selection-end-line="21471" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/deprecated data/MuseumCustomNote.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6446">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/deprecated data/Statistics.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1017341" vertical-offset="0" max-vertical-offset="379126">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/illuminate/support/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3325359" vertical-offset="15892" max-vertical-offset="19514">
+          <caret line="739" column="74" selection-start-line="739" selection-start-column="74" selection-end-line="739" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/date.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19014084" vertical-offset="256" max-vertical-offset="31460">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/illuminate/support/Facades/DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2034682" vertical-offset="0" max-vertical-offset="865">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/pcre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2682081" vertical-offset="4784" max-vertical-offset="11110">
+          <caret line="228" column="9" selection-start-line="228" selection-start-column="9" selection-end-line="228" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/Log.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5595376" vertical-offset="0" max-vertical-offset="1920754">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/GameRestriction.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="36.19355" vertical-offset="1188" max-vertical-offset="24398">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/TestLogins.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221914">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/Asset.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42488262" vertical-offset="13014" max-vertical-offset="20394">
+          <caret line="608" column="31" selection-start-line="608" selection-start-column="21" selection-end-line="608" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/MuseumCustomNote.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.266666" vertical-offset="8702" max-vertical-offset="10802">
+          <caret line="429" column="18" selection-start-line="429" selection-start-column="9" selection-end-line="429" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/themusicgame_test_backup_13.05.2016.sql">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/MSUserExceptions.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9745665" vertical-offset="6938" max-vertical-offset="11550">
+          <caret line="393" column="32" selection-start-line="393" selection-start-column="32" selection-end-line="393" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/BookRestriction.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3213873" vertical-offset="2912" max-vertical-offset="5588">
+          <caret line="145" column="16" selection-start-line="145" selection-start-column="9" selection-end-line="145" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/Book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54678005" vertical-offset="15676" max-vertical-offset="20372">
+          <caret line="733" column="32" selection-start-line="733" selection-start-column="32" selection-end-line="733" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Users with username/MSUser.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2105263" vertical-offset="10186" max-vertical-offset="11550">
+          <caret line="509" column="29" selection-start-line="509" selection-start-column="21" selection-end-line="509" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/Statistics.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3325359" vertical-offset="352250" max-vertical-offset="536074">
+          <caret line="16024" column="35" selection-start-line="16024" selection-start-column="25" selection-end-line="16024" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/MSUser.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.64" vertical-offset="4020257" max-vertical-offset="4296006">
+          <caret line="182759" column="32" selection-start-line="182759" selection-start-column="32" selection-end-line="182759" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/lumen-framework/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="3102">
+          <caret line="63" column="64" selection-start-line="63" selection-start-column="64" selection-end-line="63" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/Instrument.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.5704226" vertical-offset="3042" max-vertical-offset="3894">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/MSClass.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38516745" vertical-offset="31424" max-vertical-offset="124630">
+          <caret line="1443" column="31" selection-start-line="1443" selection-start-column="21" selection-end-line="1443" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4665127" vertical-offset="1334" max-vertical-offset="2200">
+          <caret line="79" column="61" selection-start-line="79" selection-start-column="61" selection-end-line="79" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ParseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.741936" vertical-offset="4780" max-vertical-offset="5698">
+          <caret line="1589" column="20" selection-start-line="1589" selection-start-column="20" selection-end-line="1589" selection-end-column="20" />
+          <folding>
+            <element signature="e#233#929#0#PHP" expanded="false" />
+            <element signature="e#935#1470#0#PHP" expanded="false" />
+            <element signature="e#1476#2556#0#PHP" expanded="false" />
+            <element signature="e#2562#4244#0#PHP" expanded="false" />
+            <element signature="e#4250#4715#0#PHP" expanded="false" />
+            <element signature="e#4721#6192#0#PHP" expanded="false" />
+            <element signature="e#6198#7237#0#PHP" expanded="false" />
+            <element signature="e#7243#7923#0#PHP" expanded="false" />
+            <element signature="e#7929#9231#0#PHP" expanded="false" />
+            <element signature="e#9237#11037#0#PHP" expanded="false" />
+            <element signature="e#11043#11480#0#PHP" expanded="false" />
+            <element signature="e#11486#12152#0#PHP" expanded="false" />
+            <element signature="e#12158#17816#0#PHP" expanded="false" />
+            <element signature="e#17822#18845#0#PHP" expanded="false" />
+            <element signature="e#18851#19009#0#PHP" expanded="false" />
+            <element signature="e#19015#21926#0#PHP" expanded="false" />
+            <element signature="e#21932#25805#0#PHP" expanded="false" />
+            <element signature="e#25811#26252#0#PHP" expanded="false" />
+            <element signature="e#26258#27393#0#PHP" expanded="false" />
+            <element signature="e#27399#28508#0#PHP" expanded="false" />
+            <element signature="e#28559#29478#0#PHP" expanded="false" />
+            <element signature="e#29484#30341#0#PHP" expanded="false" />
+            <element signature="e#30347#31990#0#PHP" expanded="false" />
+            <element signature="e#31996#32544#0#PHP" expanded="false" />
+            <element signature="e#32550#33639#0#PHP" expanded="false" />
+            <element signature="e#33645#34767#0#PHP" expanded="false" />
+            <element signature="e#34773#35936#0#PHP" expanded="false" />
+            <element signature="e#35942#37506#0#PHP" expanded="false" />
+            <element signature="e#37512#37881#0#PHP" expanded="false" />
+            <element signature="e#37932#40441#0#PHP" expanded="false" />
+            <element signature="e#40447#41121#0#PHP" expanded="false" />
+            <element signature="e#41127#43229#0#PHP" expanded="false" />
+            <element signature="e#43235#44886#0#PHP" expanded="false" />
+            <element signature="e#44892#45373#0#PHP" expanded="false" />
+            <element signature="e#45379#45919#0#PHP" expanded="false" />
+            <element signature="e#49102#50279#0#PHP" expanded="false" />
+            <element signature="e#50285#50526#0#PHP" expanded="false" />
+            <element signature="e#50577#50923#0#PHP" expanded="false" />
+            <marker date="1461049752422" expanded="true" signature="32056:32095" placeholder="drop table i..." />
+            <marker date="1461049752422" expanded="true" signature="32122:32408" placeholder="create table..class_games_access..." />
+            <marker date="1461049752422" expanded="true" signature="32435:32535" placeholder="ALTER TABLE ..." />
+            <marker date="1461049752422" expanded="true" signature="40524:40560" placeholder="drop table i..." />
+            <marker date="1461049752422" expanded="true" signature="40587:40852" placeholder="create table..teacher_classes..." />
+            <marker date="1461049752422" expanded="true" signature="40879:40976" placeholder="ALTER TABLE ..." />
+            <marker date="1461049752422" expanded="true" signature="44951:44982" placeholder="drop table i..." />
+            <marker date="1461049752422" expanded="true" signature="45009:45247" placeholder="select users..users..." />
+            <marker date="1461049752422" expanded="true" signature="45274:45364" placeholder="alter table user_books..." />
+            <marker date="1461049752422" expanded="true" signature="45438:45469" placeholder="drop table i..." />
+            <marker date="1461049752422" expanded="true" signature="45496:45793" placeholder="select users..users..." />
+            <marker date="1461049752422" expanded="true" signature="45820:45910" placeholder="alter table user_games..." />
+            <marker date="1461049752422" expanded="true" signature="51556:51893" placeholder="insert into ..." />
+            <marker date="1461049752422" expanded="true" signature="51979:52323" placeholder="insert into ..." />
+            <marker date="1461049752422" expanded="true" signature="52747:53072" placeholder="insert into ..." />
+            <marker date="1461049752422" expanded="true" signature="53158:53462" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.612904" vertical-offset="212" max-vertical-offset="2706">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/TeacherController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="7.548387" vertical-offset="1774" max-vertical-offset="2640">
+          <caret line="677" column="33" selection-start-line="677" selection-start-column="33" selection-end-line="677" selection-end-column="33" />
+          <folding>
+            <element signature="e#6#90#0#PHP" expanded="true" />
+            <element signature="e#210#505#0#PHP" expanded="false" />
+            <element signature="e#511#673#0#PHP" expanded="false" />
+            <element signature="e#679#1136#0#PHP" expanded="false" />
+            <element signature="e#1142#1838#0#PHP" expanded="false" />
+            <element signature="e#1844#2036#0#PHP" expanded="false" />
+            <element signature="e#2042#2223#0#PHP" expanded="false" />
+            <element signature="e#2261#3362#0#PHP" expanded="false" />
+            <element signature="e#3368#4321#0#PHP" expanded="false" />
+            <element signature="e#4327#5462#0#PHP" expanded="false" />
+            <element signature="e#5468#6615#0#PHP" expanded="false" />
+            <element signature="e#6621#8387#0#PHP" expanded="false" />
+            <element signature="e#8393#9891#0#PHP" expanded="false" />
+            <element signature="e#9897#10953#0#PHP" expanded="false" />
+            <element signature="e#10959#12309#0#PHP" expanded="false" />
+            <element signature="e#12315#14090#0#PHP" expanded="false" />
+            <element signature="e#14096#15587#0#PHP" expanded="false" />
+            <element signature="e#15593#16777#0#PHP" expanded="false" />
+            <element signature="e#16783#17958#0#PHP" expanded="false" />
+            <element signature="e#17964#20078#0#PHP" expanded="false" />
+            <element signature="e#20084#21264#0#PHP" expanded="false" />
+            <element signature="e#21270#23284#0#PHP" expanded="false" />
+            <element signature="e#23290#23568#0#PHP" expanded="false" />
+            <element signature="e#23574#25369#0#PHP" expanded="false" />
+            <element signature="e#25375#27362#0#PHP" expanded="false" />
+            <element signature="e#27400#28891#0#PHP" expanded="false" />
+            <element signature="e#28897#30715#0#PHP" expanded="false" />
+            <element signature="e#30721#32602#0#PHP" expanded="false" />
+            <element signature="e#32608#34385#0#PHP" expanded="false" />
+            <element signature="e#34391#36184#0#PHP" expanded="false" />
+            <element signature="e#36190#37460#0#PHP" expanded="false" />
+            <element signature="e#37466#39415#0#PHP" expanded="false" />
+            <element signature="e#39421#40759#0#PHP" expanded="false" />
+            <element signature="e#40765#42754#0#PHP" expanded="false" />
+            <element signature="e#42760#44057#0#PHP" expanded="false" />
+            <element signature="e#44063#45946#0#PHP" expanded="false" />
+            <element signature="e#45952#47313#0#PHP" expanded="false" />
+            <element signature="e#47319#50029#0#PHP" expanded="false" />
+            <element signature="e#50035#51364#0#PHP" expanded="false" />
+            <element signature="e#51370#52711#0#PHP" expanded="false" />
+            <element signature="e#52717#57251#0#PHP" expanded="false" />
+            <element signature="e#57257#58636#0#PHP" expanded="false" />
+            <element signature="e#58642#62274#0#PHP" expanded="false" />
+            <element signature="e#62280#63224#0#PHP" expanded="false" />
+            <element signature="e#63230#65449#0#PHP" expanded="false" />
+            <element signature="e#65455#66582#0#PHP" expanded="false" />
+            <marker date="1461046889071" expanded="true" signature="7127:7202" placeholder="select game_..." />
+            <marker date="1461046889071" expanded="true" signature="10346:10499" placeholder="select name,..users..." />
+            <marker date="1461046889071" expanded="true" signature="16043:16170" placeholder="select * fro..class_games_access..." />
+            <marker date="1461046889071" expanded="true" signature="24304:24436" placeholder="select * fro..museum_notes..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="638" max-vertical-offset="1804">
+          <caret line="318" column="5" selection-start-line="318" selection-start-column="5" selection-end-line="318" selection-end-column="5" />
+          <folding>
+            <element signature="e#269#564#0#PHP" expanded="false" />
+            <element signature="e#570#732#0#PHP" expanded="false" />
+            <element signature="e#738#1431#0#PHP" expanded="false" />
+            <element signature="e#1469#1673#0#PHP" expanded="false" />
+            <element signature="e#1679#4223#0#PHP" expanded="false" />
+            <element signature="e#1834#2537#0#PHP" expanded="false" />
+            <element signature="e#2662#3401#0#PHP" expanded="false" />
+            <element signature="e#3514#4217#0#PHP" expanded="false" />
+            <element signature="e#4229#6772#0#PHP" expanded="false" />
+            <element signature="e#5203#5913#0#PHP" expanded="false" />
+            <element signature="e#6048#6766#0#PHP" expanded="false" />
+            <element signature="e#6778#8927#0#PHP" expanded="false" />
+            <element signature="e#8933#9285#0#PHP" expanded="false" />
+            <element signature="e#9291#9854#0#PHP" expanded="false" />
+            <element signature="e#9860#10993#0#PHP" expanded="false" />
+            <element signature="e#10999#11191#0#PHP" expanded="false" />
+            <element signature="e#11197#12018#0#PHP" expanded="false" />
+            <element signature="e#12024#13433#0#PHP" expanded="false" />
+            <element signature="e#13439#13599#0#PHP" expanded="false" />
+            <element signature="e#13605#14609#0#PHP" expanded="false" />
+            <element signature="e#14615#15648#0#PHP" expanded="false" />
+            <element signature="e#15654#15958#0#PHP" expanded="false" />
+            <element signature="e#15964#17189#0#PHP" expanded="false" />
+            <element signature="e#17195#18026#0#PHP" expanded="false" />
+            <element signature="e#18032#19144#0#PHP" expanded="false" />
+            <element signature="e#19150#20077#0#PHP" expanded="false" />
+            <element signature="e#20083#20895#0#PHP" expanded="false" />
+            <element signature="e#20901#23085#0#PHP" expanded="false" />
+            <element signature="e#23123#23828#0#PHP" expanded="false" />
+            <element signature="e#23834#27255#0#PHP" expanded="false" />
+            <element signature="e#27261#27990#0#PHP" expanded="false" />
+            <element signature="e#27996#28850#0#PHP" expanded="false" />
+            <element signature="e#28856#31050#0#PHP" expanded="false" />
+            <element signature="e#31056#32498#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/WebGame DB/ParseData/LastUserInstruments.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.967742" vertical-offset="116366" max-vertical-offset="719774">
+          <caret line="5302" column="28" selection-start-line="5302" selection-start-column="22" selection-end-line="5302" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31919643" vertical-offset="0" max-vertical-offset="896">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
